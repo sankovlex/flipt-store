@@ -11,3 +11,7 @@ flags:
         - threshold:
             percentage: 100
             value: true
+    - key: my-flag2
+      name: my-flag2
+      type: BOOLEAN_FLAG_TYPE
+      enabled: false

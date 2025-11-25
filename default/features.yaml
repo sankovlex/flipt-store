@@ -23,3 +23,7 @@ flags:
         - threshold:
             percentage: 100
             value: true
+    - key: flag3
+      name: flag3
+      type: BOOLEAN_FLAG_TYPE
+      enabled: false

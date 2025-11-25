@@ -19,3 +19,7 @@ flags:
       name: flag2
       type: BOOLEAN_FLAG_TYPE
       enabled: false
+      rollouts:
+        - threshold:
+            percentage: 100
+            value: true

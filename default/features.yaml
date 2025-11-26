@@ -10,7 +10,6 @@ flags:
       rollouts:
         - threshold:
             percentage: 40
-            value: true
     - key: my-flag2
       name: my-flag2
       type: BOOLEAN_FLAG_TYPE

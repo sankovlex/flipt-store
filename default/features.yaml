@@ -9,7 +9,7 @@ flags:
       enabled: false
       rollouts:
         - threshold:
-            percentage: 100
+            percentage: 0
             value: true
     - key: my-flag2
       name: my-flag2
